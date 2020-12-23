@@ -1,0 +1,14 @@
+name: MinigameAPI
+version: 0.1
+author: maltesermailo
+main: de.maltesermailo.impl.MinigameAPI
+
+commands:
+  nick:
+    description: Nick Command
+  unnick:
+    description: Unnick Command
+  coins:
+    description: Coins Command
+  spec:
+    description: Spectator Command

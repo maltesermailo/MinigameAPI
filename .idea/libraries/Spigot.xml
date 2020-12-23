@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Spigot">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/.PlayLegend.eu/.testservers/NightCloud/Wrapper/jars/spigot-1.8.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Documents/.PlayLegend.eu/.testservers/NightCloud/Wrapper/jars/spigot-1.8.8.jar!/" />
+    </SOURCES>
+  </library>
+</component>

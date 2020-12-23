@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Java-Programme/bukkit/LegendaryGungame/Gungame.iml" filepath="$USER_HOME$/Java-Programme/bukkit/LegendaryGungame/Gungame.iml" />
+      <module fileurl="file://$USER_HOME$/Java-Programme/bukkit/LobbySystem/LobbySystem.iml" filepath="$USER_HOME$/Java-Programme/bukkit/LobbySystem/LobbySystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinigameAPI.iml" filepath="$PROJECT_DIR$/MinigameAPI.iml" />
+      <module fileurl="file://$USER_HOME$/Java-Programme/bukkit/MinigameAPITest/MinigameAPITest.iml" filepath="$USER_HOME$/Java-Programme/bukkit/MinigameAPITest/MinigameAPITest.iml" />
+      <module fileurl="file://$USER_HOME$/Java-Programme/bukkit/Ships 1.8/Ships 1.8.iml" filepath="$USER_HOME$/Java-Programme/bukkit/Ships 1.8/Ships 1.8.iml" />
+    </modules>
+  </component>
+</project>
